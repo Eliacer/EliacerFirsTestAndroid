@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EliacerFirsTestAndroid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rosa">Rosa</string>
+    <string name="title_activity_religiosa">Religiosa</string>
+    <string name="title_activity_padre_pio">PadrePio</string>
+    <string name="title_activity_obediencia">Obediencia</string>
+</resources>
